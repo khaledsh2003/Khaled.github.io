@@ -16,33 +16,12 @@ body{
     display: flex;
     background-color: #6CB4EE;
     height: 100%;
+    width: 100%;
     overflow: hidden;
    
 
 }
-.navbar {
-    display: flex;
-    justify-content:flex-end;
-    padding: 30px;
-    
-}
-.navbar li {
-    list-style: none;  
-    
-}
-.navbar a {
-    text-decoration: none;
-    font-weight:bolder;
-    color: white;
-    padding: 30px;
-    
-    
-    
-}
-.navbar a:hover{
-    background-color: #000;
-    color: white;
-}
+
 .Banner img {
    width: 70px;
 }
